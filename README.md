@@ -1,0 +1,1 @@
+# erro-no-pg_hba.conf
